@@ -1,12 +1,12 @@
 # Transformer_Hypercloud
 
-We used a Point Cloud Transformer (PCT) network as the backbone and tested different Self-Attention modules for 3D Hypercloud data in Geological application.
+We used a Point Cloud Transformer (PCT) network as the backbone and tested different Self-Attention modules for 3D Hypercloud data in Geological application. Find our paper [here](https://ieeexplore.ieee.org/document/10431346). 
 
 <img width="450" alt="Screenshot 2024-11-09 at 02 19 08" src="https://github.com/user-attachments/assets/327e3cc1-a4dd-4590-8520-6ed5b16140f2">
 
 <img width="750" alt="Screenshot 2024-11-09 at 02 19 37" src="https://github.com/user-attachments/assets/885cb7b8-6a44-47ac-997b-cd5aee682cd1">
 
-Download Tinto data from here: https://rodare.hzdr.de/record/2256
+Download Tinto data from [RODARE](https://rodare.hzdr.de/record/2256).
 
 First prepare KNN points:
 ```
